@@ -1,0 +1,11 @@
+/Users/ReidSouth/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.1/CSharpTutorial
+/Users/ReidSouth/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.1/CSharpTutorial.deps.json
+/Users/ReidSouth/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.1/CSharpTutorial.runtimeconfig.json
+/Users/ReidSouth/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.1/CSharpTutorial.runtimeconfig.dev.json
+/Users/ReidSouth/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.1/CSharpTutorial.dll
+/Users/ReidSouth/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.1/CSharpTutorial.pdb
+/Users/ReidSouth/Projects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.csprojAssemblyReference.cache
+/Users/ReidSouth/Projects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.AssemblyInfoInputs.cache
+/Users/ReidSouth/Projects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.AssemblyInfo.cs
+/Users/ReidSouth/Projects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.dll
+/Users/ReidSouth/Projects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.pdb
