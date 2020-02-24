@@ -6,14 +6,9 @@ namespace CSharpTutorial
     {
         static void Main(string[] args)
         {
-            string characterName = "John";
-            int characterAge;
-            characterAge = 35;
+            string phrase = "\"Giraffe Academy\"";
 
-            Console.WriteLine("There once was a man named " + characterName + ".");
-            Console.WriteLine("He was " + characterAge + ".");
-            Console.WriteLine("He really likes being named " + characterName + ".");
-            Console.WriteLine("But he doesn't like being " + characterAge + ".");
+            Console.WriteLine(phrase.Contains("G"));
 
             Console.ReadLine();
         }
