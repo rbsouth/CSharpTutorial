@@ -8,7 +8,8 @@ namespace CSharpTutorial
         {
             string phrase = "\"Giraffe Academy\"";
 
-            Console.WriteLine(phrase.Contains("G"));
+            Console.WriteLine(phrase.IndexOf("G"));
+            Console.WriteLine(phrase.Substring(3));
 
             Console.ReadLine();
         }
