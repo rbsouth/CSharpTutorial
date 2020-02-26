@@ -6,10 +6,8 @@ namespace CSharpTutorial
     {
         static void Main(string[] args)
         {
-            string phrase = "\"Giraffe Academy\"";
 
-            Console.WriteLine(phrase.IndexOf("G"));
-            Console.WriteLine(phrase.Substring(3));
+            Console.WriteLine( 5 % 2 );
 
             Console.ReadLine();
         }
