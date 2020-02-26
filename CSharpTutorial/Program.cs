@@ -7,7 +7,10 @@ namespace CSharpTutorial
         static void Main(string[] args)
         {
 
-            Console.WriteLine( 5 % 2 );
+            Console.Write("Enter Your Name: ");
+            string name = Console.ReadLine();
+            Console.WriteLine("Hello " + name);
+
 
             Console.ReadLine();
         }
